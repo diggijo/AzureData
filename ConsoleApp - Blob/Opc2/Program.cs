@@ -31,15 +31,15 @@ namespace Opc2
 
                 };
 
-                var itemValue2 = new OpcDaItemDefinition
+                /*var itemValue2 = new OpcDaItemDefinition
                 {
 
                     ItemId = "CC2028:.tINTF_General_Visu.tWind.tWindDirectionSensor.rAnalogSignal",
                     IsActive = true,
 
-                };
+                };*/
 
-                OpcDaItemDefinition[] opcDaItems = { itemValue1, itemValue2 };
+                OpcDaItemDefinition[] opcDaItems = { itemValue1 };//, itemValue2 };
 
                 OpcDaItemResult[] results = group.AddItems(opcDaItems);
 

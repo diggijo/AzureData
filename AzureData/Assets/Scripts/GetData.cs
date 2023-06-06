@@ -6,11 +6,11 @@ using System.Collections.Generic;
 
 public class GetData : MonoBehaviour
 {
-    //private const string functionUrl = "http://localhost:7260/api/GetData";
-    private const string functionUrl = "https://serverlessfunctionjd.azurewebsites.net/api/GetData";
+    private const string functionUrl = "http://localhost:7260/api/GetData";
+    //private const string functionUrl = "https://serverlessfunctionjd.azurewebsites.net/api/GetData";
     private string[] entries;
-    private Dictionary<string, List<(int Value, DateTime Timestamp)>> dataTable = new Dictionary<string, List<(int Value, DateTime Timestamp)>>();
-
+    internal Dictionary<string, List<(int Value, DateTime Timestamp)>> dataTable = new Dictionary<string, List<(int Value, DateTime Timestamp)>>();
+    //[SerializeField] private Dictionary_Graph graphScript;
     void Start()
     {
         StartCoroutine(UpdateDataRoutine());
@@ -29,6 +29,8 @@ public class GetData : MonoBehaviour
 
             // Update the data table with new values
             createList();
+
+            //graphScript.showGraph(dataTable, graphScript.xValuesVisible, graphScript.separatorCount, (DateTime _dt) => _dt.ToString("HH:mm:ss"), (int _i) => _i.ToString());
         }
     }
 

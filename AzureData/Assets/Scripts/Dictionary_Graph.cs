@@ -9,8 +9,8 @@ using Unity.VisualScripting;
 public class Dictionary_Graph : MonoBehaviour
 {
     [SerializeField] private Sprite circleSprite;
-    [SerializeField] private int xValuesVisible;
-    [SerializeField] private int separatorCount;
+    [SerializeField] internal int xValuesVisible;
+    [SerializeField] internal int separatorCount;
     private RectTransform graphContainer;
     private RectTransform labelTemplateX;
     private RectTransform labelTemplateY;
@@ -29,16 +29,38 @@ public class Dictionary_Graph : MonoBehaviour
         labelTemplateTitle = graphContainer.Find("LabelTemplateTitle").GetComponent<RectTransform>();
 
         gameObjects = new List<GameObject>();
-
+        
         Dictionary<string, List<(int Value, DateTime Timestamp)>> dataDictionary = new Dictionary<string, List<(int Value, DateTime Timestamp)>>();
 
+        
         // Populate the dataDictionary with your data
         List<(int Value, DateTime Timestamp)> points = new List<(int Value, DateTime Timestamp)>()
         {
             (5, DateTime.Now),
             (98, DateTime.Now.AddHours(1)),
-            (56, DateTime.Now.AddHours(2))
-            // Add more data points here
+            (56, DateTime.Now.AddHours(2)),
+            (77, DateTime.Now.AddHours(3)),
+            (25, DateTime.Now.AddHours(4)),
+            (98, DateTime.Now.AddHours(1)),
+            (56, DateTime.Now.AddHours(2)),
+            (77, DateTime.Now.AddHours(3)),
+            (25, DateTime.Now.AddHours(4)),
+            (98, DateTime.Now.AddHours(1)),
+            (56, DateTime.Now.AddHours(2)),
+            (77, DateTime.Now.AddHours(3)),
+            (98, DateTime.Now.AddHours(1)),
+            (56, DateTime.Now.AddHours(2)),
+            (77, DateTime.Now.AddHours(3)),
+            (25, DateTime.Now.AddHours(4)),
+            (25, DateTime.Now.AddHours(4)),
+            (98, DateTime.Now.AddHours(1)),
+            (56, DateTime.Now.AddHours(2)),
+            (77, DateTime.Now.AddHours(3)),
+            (25, DateTime.Now.AddHours(4)),
+            (98, DateTime.Now.AddHours(1)),
+            (56, DateTime.Now.AddHours(2)),
+            (77, DateTime.Now.AddHours(3)),
+            (25, DateTime.Now.AddHours(4)),
         };
 
         // Add the data to the dictionary using a key (e.g., "Series 1")
@@ -60,7 +82,7 @@ public class Dictionary_Graph : MonoBehaviour
         return go;
     }
 
-    private void showGraph(Dictionary<string, List<(int Value, DateTime Timestamp)>> valueDictionary, int xValuesOnDisplay, int yIncrements, Func<DateTime, string> axisLabelX = null, Func<int, string> axisLabelY = null)
+    internal void showGraph(Dictionary<string, List<(int Value, DateTime Timestamp)>> valueDictionary, int xValuesOnDisplay, int yIncrements, Func<DateTime, string> axisLabelX = null, Func<int, string> axisLabelY = null)
     {
         if (axisLabelX == null)
         {
@@ -103,7 +125,7 @@ public class Dictionary_Graph : MonoBehaviour
 
             for (int i = Mathf.Max(valueList.Count - xValuesOnDisplay, 0); i < valueList.Count; i++)
             {
-                float xPosition = (xIndex + 1) * xSize;
+                float xPosition = (xIndex + 0.5f) * xSize;
                 float yPosition = ((valueList[i].Value / yMax)) * graphHeight;
                 GameObject circleGameObject = CreateCircle(new Vector2(xPosition, yPosition));
                 gameObjects.Add(circleGameObject);

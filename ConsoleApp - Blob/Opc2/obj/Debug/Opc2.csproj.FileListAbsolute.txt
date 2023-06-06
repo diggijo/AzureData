@@ -1,0 +1,601 @@
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Opc2.exe.config
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Opc2.exe
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Opc2.pdb
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Common.Logging.Core.dll
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Common.Logging.dll
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\TitaniumAS.Opc.Client.dll
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Common.Logging.pdb
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Common.Logging.xml
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Common.Logging.Core.pdb
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Common.Logging.Core.xml
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\obj\Debug\Opc2.csproj.SuggestedBindingRedirects.cache
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\obj\Debug\Opc2.csproj.CoreCompileInputs.cache
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\obj\Debug\Opc2.csproj.CopyComplete
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\obj\Debug\Opc2.exe
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\obj\Debug\Opc2.pdb
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Hosting.dll
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Http.dll
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\System.Buffers.dll
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\System.Collections.Immutable.dll
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\System.Formats.Asn1.dll
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\System.IO.Pipelines.dll
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\System.Memory.dll
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\System.Security.Cryptography.Cng.dll
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\System.ValueTuple.dll
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Hosting.xml
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Http.xml
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.xml
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Core.xml
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.xml
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.xml
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.xml
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\System.Buffers.xml
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\System.Collections.Immutable.xml
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\System.Formats.Asn1.xml
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\System.IO.Pipelines.xml
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\System.Memory.xml
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\System.ValueTuple.xml
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\obj\Debug\Interop.OpcEnumLib.dll
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\obj\Debug\Opc2.csproj.ResolveComReference.cache
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\OpcComRcw.dll
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\DWSWindCatcher101.db
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Dapper.dll
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\Dapper.xml
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\System.Data.SQLite.dll
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\bin\Debug\System.Data.SQLite.xml
+C:\Users\lccmcd7\Desktop\OpcProj\Opc2\Opc2\obj\Debug\Opc2.csproj.AssemblyReference.cache
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\DWSWindCatcher101.db
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Opc2.exe.config
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Opc2.exe
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Opc2.pdb
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Common.Logging.Core.dll
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Common.Logging.dll
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Dapper.dll
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Hosting.dll
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Http.dll
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\OpcComRcw.dll
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\System.Buffers.dll
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\System.Collections.Immutable.dll
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\System.Formats.Asn1.dll
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\System.IO.Pipelines.dll
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\System.Memory.dll
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\System.Security.Cryptography.Cng.dll
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\System.ValueTuple.dll
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\TitaniumAS.Opc.Client.dll
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Common.Logging.pdb
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Common.Logging.xml
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Common.Logging.Core.pdb
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Common.Logging.Core.xml
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Dapper.xml
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Hosting.xml
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Http.xml
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.xml
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Core.xml
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.xml
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.xml
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.xml
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\System.Buffers.xml
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\System.Collections.Immutable.xml
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\System.Data.SQLite.xml
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\System.Formats.Asn1.xml
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\System.IO.Pipelines.xml
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\System.Memory.xml
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\darra\Desktop\Opc2\Opc2\bin\Debug\System.ValueTuple.xml
+C:\Users\darra\Desktop\Opc2\Opc2\obj\Debug\Opc2.csproj.AssemblyReference.cache
+C:\Users\darra\Desktop\Opc2\Opc2\obj\Debug\Opc2.csproj.SuggestedBindingRedirects.cache
+C:\Users\darra\Desktop\Opc2\Opc2\obj\Debug\Interop.OpcEnumLib.dll
+C:\Users\darra\Desktop\Opc2\Opc2\obj\Debug\Opc2.csproj.ResolveComReference.cache
+C:\Users\darra\Desktop\Opc2\Opc2\obj\Debug\Opc2.csproj.CoreCompileInputs.cache
+C:\Users\darra\Desktop\Opc2\Opc2\obj\Debug\Opc2.csproj.CopyComplete
+C:\Users\darra\Desktop\Opc2\Opc2\obj\Debug\Opc2.exe
+C:\Users\darra\Desktop\Opc2\Opc2\obj\Debug\Opc2.pdb
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\DWSWindCatcher101.db
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Opc2.exe.config
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Opc2.exe
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Opc2.pdb
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Common.Logging.Core.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Common.Logging.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Dapper.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Hosting.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Http.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\OpcComRcw.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\System.Buffers.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\System.Collections.Immutable.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\System.Formats.Asn1.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\System.IO.Pipelines.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\System.Memory.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\System.Security.Cryptography.Cng.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\System.ValueTuple.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\TitaniumAS.Opc.Client.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Common.Logging.pdb
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Common.Logging.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Common.Logging.Core.pdb
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Common.Logging.Core.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Dapper.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Hosting.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Http.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Core.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\System.Buffers.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\System.Collections.Immutable.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\System.Data.SQLite.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\System.Formats.Asn1.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\System.IO.Pipelines.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\System.Memory.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\bin\Debug\System.ValueTuple.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\obj\Debug\Opc2.csproj.AssemblyReference.cache
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\obj\Debug\Interop.OpcEnumLib.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\obj\Debug\Opc2.csproj.ResolveComReference.cache
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\obj\Debug\Opc2.csproj.CoreCompileInputs.cache
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\obj\Debug\Opc2.csproj.CopyComplete
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\obj\Debug\Opc2.exe
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\obj\Debug\Opc2.pdb
+C:\Users\joseph\Desktop\Work\Liebherr\Matrikon\Opc2\Opc2\Opc2\obj\Debug\Opc2.csproj.SuggestedBindingRedirects.cache
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\DWSWindCatcher101.db
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Opc2.exe.config
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Opc2.exe
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Opc2.pdb
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Common.Logging.Core.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Common.Logging.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Dapper.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Microsoft.AspNetCore.Hosting.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Microsoft.AspNetCore.Http.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\OpcComRcw.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\System.Buffers.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\System.Collections.Immutable.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\System.Formats.Asn1.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\System.IO.Pipelines.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\System.Memory.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\System.Security.Cryptography.Cng.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\System.ValueTuple.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\TitaniumAS.Opc.Client.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Common.Logging.pdb
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Common.Logging.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Common.Logging.Core.pdb
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Common.Logging.Core.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Dapper.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Microsoft.AspNetCore.Hosting.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Microsoft.AspNetCore.Http.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Core.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\System.Buffers.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\System.Collections.Immutable.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\System.Data.SQLite.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\System.Formats.Asn1.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\System.IO.Pipelines.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\System.Memory.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\bin\Debug\System.ValueTuple.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\obj\Debug\Opc2.csproj.AssemblyReference.cache
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\obj\Debug\Opc2.csproj.SuggestedBindingRedirects.cache
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\obj\Debug\Interop.OpcEnumLib.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\obj\Debug\Opc2.csproj.ResolveComReference.cache
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\obj\Debug\Opc2.csproj.CoreCompileInputs.cache
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\obj\Debug\Opc2.csproj.CopyComplete
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\obj\Debug\Opc2.exe
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp\Opc2\obj\Debug\Opc2.pdb
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\DWSWindCatcher101.db
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Opc2.exe.config
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Opc2.exe
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Opc2.pdb
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Common.Logging.Core.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Common.Logging.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Dapper.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Microsoft.AspNetCore.Hosting.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Microsoft.AspNetCore.Http.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\OpcComRcw.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\System.Buffers.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\System.Collections.Immutable.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\System.Formats.Asn1.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\System.IO.Pipelines.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\System.Memory.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\System.Security.Cryptography.Cng.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\System.ValueTuple.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\TitaniumAS.Opc.Client.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Common.Logging.pdb
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Common.Logging.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Common.Logging.Core.pdb
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Common.Logging.Core.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Dapper.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Microsoft.AspNetCore.Hosting.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Microsoft.AspNetCore.Http.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Core.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\System.Buffers.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\System.Collections.Immutable.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\System.Data.SQLite.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\System.Formats.Asn1.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\System.IO.Pipelines.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\System.Memory.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\bin\Debug\System.ValueTuple.xml
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\obj\Debug\Opc2.csproj.AssemblyReference.cache
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\obj\Debug\Opc2.csproj.SuggestedBindingRedirects.cache
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\obj\Debug\Interop.OpcEnumLib.dll
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\obj\Debug\Opc2.csproj.ResolveComReference.cache
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\obj\Debug\Opc2.csproj.CoreCompileInputs.cache
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\obj\Debug\Opc2.csproj.CopyComplete
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\obj\Debug\Opc2.exe
+C:\Users\joseph\Desktop\Work\Liebherr\Serverless\ConsoleApp - Blob\Opc2\obj\Debug\Opc2.pdb

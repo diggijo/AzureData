@@ -8,7 +8,8 @@ using System.Data;
 
 public class GetData : MonoBehaviour
 {
-    private const string functionUrl = "http://localhost:7260/api/GetData";
+    //private const string functionUrl = "http://localhost:7260/api/GetData";
+    string functionUrl = "https://serverlessfunctionjd.azurewebsites.net/api/GetData";
     private string[] entries;
     private Dictionary<string, List<(int Value, DateTime Timestamp)>> dataTable = new Dictionary<string, List<(int Value, DateTime Timestamp)>>();
 

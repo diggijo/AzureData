@@ -69,9 +69,9 @@ namespace Opc2
 
         private static async Task SendValueToServerless(string stringValue, int intValue, string date)
         {
-            string functionUrl = "http://localhost:7260/api/SendData";
-            //string functionUrl = "https://serverlessfunctionjd.azurewebsites.net/api/HttpExample";
-
+            //string functionUrl = "http://localhost:7260/api/SendData";
+            string functionUrl = "https://serverlessfunctionjd.azurewebsites.net/api/SendData";
+        
             // Create HttpClient instance
             HttpClient httpClient = new HttpClient();
 

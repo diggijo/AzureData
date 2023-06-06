@@ -12,7 +12,7 @@ public static class Blobs
 {
     [FunctionName("SendData")]
     public static async Task<IActionResult> Run(
-        [HttpTrigger(AuthorizationLevel.Function, "post", Route = null)] HttpRequest req,
+        [HttpTrigger(AuthorizationLevel.Anonymous, "post", Route = null)] HttpRequest req,
         ILogger log)
     {
         BlobClient blobClient = createBlobClient();
@@ -43,7 +43,7 @@ public static class Blobs
 
     [FunctionName("GetData")]
     public static async Task<IActionResult> GetData(
-    [HttpTrigger(AuthorizationLevel.Function, "get", Route = null)] HttpRequest req,
+    [HttpTrigger(AuthorizationLevel.Anonymous, "get", Route = null)] HttpRequest req,
     ILogger log)
     {
         BlobClient blobClient = createBlobClient();

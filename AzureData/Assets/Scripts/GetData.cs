@@ -1,21 +1,35 @@
 using UnityEngine;
 using UnityEngine.Networking;
-using System.Text;
 using System.Collections;
 using System;
 using System.Collections.Generic;
-using System.Data;
 
 public class GetData : MonoBehaviour
 {
     //private const string functionUrl = "http://localhost:7260/api/GetData";
-    string functionUrl = "https://serverlessfunctionjd.azurewebsites.net/api/GetData";
+    private const string functionUrl = "https://serverlessfunctionjd.azurewebsites.net/api/GetData";
     private string[] entries;
     private Dictionary<string, List<(int Value, DateTime Timestamp)>> dataTable = new Dictionary<string, List<(int Value, DateTime Timestamp)>>();
 
     void Start()
     {
-        StartCoroutine(GetDataRequest());
+        StartCoroutine(UpdateDataRoutine());
+    }
+
+    private IEnumerator UpdateDataRoutine()
+    {
+        while (true)
+        {
+            yield return new WaitForSeconds(5f); // Wait for 5 seconds
+
+            yield return GetDataRequest(); // Execute the GetDataRequest coroutine
+
+            // Clear the existing data table
+            dataTable.Clear();
+
+            // Update the data table with new values
+            createList();
+        }
     }
 
     private IEnumerator GetDataRequest()
@@ -34,7 +48,7 @@ public class GetData : MonoBehaviour
             // Split the string into separate entries using the closing curly brace
             entries = responseData.Split(new string[] { "}" }, StringSplitOptions.RemoveEmptyEntries);
 
-            createList();           
+            yield break;          
         }
     }
     private void createList()
@@ -76,7 +90,6 @@ public class GetData : MonoBehaviour
             {
                 Debug.Log("Value: " + entry.Value + ", Timestamp: " + entry.Timestamp);
             }
-            Debug.Log("/n");
         }
     }
 }

@@ -32,7 +32,7 @@ public class Dictionary_Graph : MonoBehaviour
         
         Dictionary<string, List<(int Value, DateTime Timestamp)>> dataDictionary = new Dictionary<string, List<(int Value, DateTime Timestamp)>>();
 
-        
+        /*
         // Populate the dataDictionary with your data
         List<(int Value, DateTime Timestamp)> points = new List<(int Value, DateTime Timestamp)>()
         {
@@ -66,7 +66,7 @@ public class Dictionary_Graph : MonoBehaviour
         // Add the data to the dictionary using a key (e.g., "Series 1")
         dataDictionary.Add("Series 1", points);
 
-        showGraph(dataDictionary, xValuesVisible, separatorCount, (DateTime _dt) => _dt.ToString("HH:mm"), (int _i) => _i.ToString());
+        showGraph(dataDictionary, xValuesVisible, separatorCount, (DateTime _dt) => _dt.ToString("HH:mm"), (int _i) => _i.ToString());*/
     }
 
     private GameObject CreateCircle(Vector2 anchoredPosition)
@@ -98,6 +98,8 @@ public class Dictionary_Graph : MonoBehaviour
             throw new ArgumentException("Invalid value for xValuesOnDisplay. It must be greater than zero.");
         }
 
+        
+
         foreach (GameObject go in gameObjects)
         {
             Destroy(go);
@@ -125,6 +127,7 @@ public class Dictionary_Graph : MonoBehaviour
 
             for (int i = Mathf.Max(valueList.Count - xValuesOnDisplay, 0); i < valueList.Count; i++)
             {
+                //Debug.Log("I: " + i + ", valueList.Count:" + valueList.Count);
                 float xPosition = (xIndex + 0.5f) * xSize;
                 float yPosition = ((valueList[i].Value / yMax)) * graphHeight;
                 GameObject circleGameObject = CreateCircle(new Vector2(xPosition, yPosition));

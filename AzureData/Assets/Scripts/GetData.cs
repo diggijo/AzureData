@@ -6,8 +6,8 @@ using System.Collections.Generic;
 
 public class GetData : MonoBehaviour
 {
-    private const string functionUrl = "http://localhost:7260/api/GetData";
-    //private const string functionUrl = "https://serverlessfunctionjd.azurewebsites.net/api/GetData";
+    //private const string functionUrl = "http://localhost:7260/api/GetData";
+    private const string functionUrl = "https://serverlessfunctionjd.azurewebsites.net/api/GetData";
     private string[] entries;
     internal Dictionary<string, List<(int Value, DateTime Timestamp)>> dataTable = new Dictionary<string, List<(int Value, DateTime Timestamp)>>();
     [SerializeField] private Dictionary_Graph graphScript;
@@ -20,14 +20,12 @@ public class GetData : MonoBehaviour
     {
         while (true)
         {
-            yield return new WaitForSeconds(5f); // Wait for 5 seconds
+            yield return new WaitForSeconds(5f);
 
-            yield return GetDataRequest(); // Execute the GetDataRequest coroutine
+            yield return GetDataRequest();
 
-            // Clear the existing data table
             dataTable.Clear();
 
-            // Update the data table with new values
             createList();
 
             graphScript.showGraph(dataTable, graphScript.xValuesVisible, graphScript.separatorCount, (DateTime _dt) => _dt.ToString("HH:mm:ss"), (int _i) => _i.ToString());
@@ -47,7 +45,6 @@ public class GetData : MonoBehaviour
         {
             string responseData = request.downloadHandler.text;
 
-            // Split the string into separate entries using the closing curly brace
             entries = responseData.Split(new string[] { "}" }, StringSplitOptions.RemoveEmptyEntries);
 
             yield break;          
@@ -58,18 +55,13 @@ public class GetData : MonoBehaviour
 
         foreach (string entry in entries)
         {
-            // Add back the closing curly brace since it got removed during the split
             string separatedEntry = entry + "}";
 
-            // Parse the entry into a dictionary
             var entryData = Newtonsoft.Json.JsonConvert.DeserializeObject<Dictionary<string, object>>(separatedEntry);
-
-            // Extract the values
             string name = entryData["Name"].ToString();
             int value = Convert.ToInt32(entryData["Value"]);
             DateTime timestamp = Convert.ToDateTime(entryData["Date"]);
 
-            // Add the values to the data table
             if (dataTable.ContainsKey(name))
             {
                 dataTable[name].Add((value, timestamp));
@@ -77,20 +69,6 @@ public class GetData : MonoBehaviour
             else
             {
                 dataTable[name] = new List<(int Value, DateTime Timestamp)> { (value, timestamp) };
-            }
-        }
-
-        printList();
-    }
-
-    private void printList()
-    {
-        foreach (var kvp in dataTable)
-        {
-            Debug.Log("Name: " + kvp.Key);
-            foreach (var entry in kvp.Value)
-            {
-                Debug.Log("Value: " + entry.Value + ", Timestamp: " + entry.Timestamp);
             }
         }
     }

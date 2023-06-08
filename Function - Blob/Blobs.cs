@@ -29,7 +29,7 @@ public static class Blobs
 
             string newData = await new StreamReader(req.Body).ReadToEndAsync();
 
-            string updatedData = existingData + newData;
+            string updatedData = existingData + "\n" + newData;
 
             using (MemoryStream updatedStream = new MemoryStream(Encoding.UTF8.GetBytes(updatedData)))
             {

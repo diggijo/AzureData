@@ -567,7 +567,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   circleSprite: {fileID: -2413806693520163455, guid: 646d96e6a437e6a45aa7fd1bdf39ee4e, type: 3}
-  xValuesVisible: 10
+  xValuesVisible: 17
   separatorCount: 18
 --- !u!1 &1029553430
 GameObject:

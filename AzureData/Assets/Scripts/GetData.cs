@@ -8,7 +8,11 @@ public class GetData : MonoBehaviour
 {
     //private const string functionUrl = "http://localhost:7260/api/GetData";
     private const string functionUrl = "https://serverlessfunctionjd.azurewebsites.net/api/GetData";
+
+    // Array to store the data entries received from the Azure Function
     private string[] entries;
+
+    // Dictionary to store the data in a structured format
     internal Dictionary<string, List<(int Value, DateTime Timestamp)>> dataTable = new Dictionary<string, List<(int Value, DateTime Timestamp)>>();
     [SerializeField] private Dictionary_Graph graphScript;
     void Start()
@@ -20,14 +24,15 @@ public class GetData : MonoBehaviour
     {
         while (true)
         {
-            yield return new WaitForSeconds(5f);
+            yield return new WaitForSeconds(5f); // Wait for 5 seconds before updating the data
 
-            yield return GetDataRequest();
+            yield return GetDataRequest(); // Send a request to the Azure Function to get the data
 
-            dataTable.Clear();
+            dataTable.Clear(); // Clear the existing data table
 
-            createList();
+            createList(); // Create a new data table based on the received data
 
+            // Display the data in the graph
             graphScript.showGraph(dataTable, graphScript.xValuesVisible, graphScript.separatorCount, (DateTime _dt) => _dt.ToString("HH:mm:ss"), (int _i) => _i.ToString());
         }
     }
@@ -45,6 +50,7 @@ public class GetData : MonoBehaviour
         {
             string responseData = request.downloadHandler.text;
 
+            // Split the response data into individual entries
             entries = responseData.Split(new string[] { "}" }, StringSplitOptions.RemoveEmptyEntries);
 
             yield break;          
@@ -57,11 +63,15 @@ public class GetData : MonoBehaviour
         {
             string separatedEntry = entry + "}";
 
+            // Deserialize the entry into a dictionary
             var entryData = Newtonsoft.Json.JsonConvert.DeserializeObject<Dictionary<string, object>>(separatedEntry);
+
+            // Extract the data from the entry
             string name = entryData["Name"].ToString();
             int value = Convert.ToInt32(entryData["Value"]);
             DateTime timestamp = Convert.ToDateTime(entryData["Date"]);
 
+            // Add the data to the data table
             if (dataTable.ContainsKey(name))
             {
                 dataTable[name].Add((value, timestamp));

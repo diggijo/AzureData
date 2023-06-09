@@ -7,13 +7,6 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System.IO;
 using System.Text;
-using System;
-using Newtonsoft.Json.Linq;
-using Newtonsoft.Json;
-using System.Net.Http;
-using System.Diagnostics;
-using Function;
-using System.Collections.Generic;
 
 public static class Blobs
 {

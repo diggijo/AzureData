@@ -1,10 +1,8 @@
-using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using CodeMonkey.Utils;
 using System;
-using Unity.VisualScripting;
 
 public class Dictionary_Graph : MonoBehaviour
 {

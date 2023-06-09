@@ -1,20 +1,40 @@
 using UnityEngine;
 using UnityEngine.Networking;
-using System.Text;
 using System.Collections;
 using System;
 using System.Collections.Generic;
-using System.Data;
 
 public class GetData : MonoBehaviour
 {
-    private const string functionUrl = "http://localhost:7260/api/GetData";
-    private string[] entries;
-    private Dictionary<string, List<(int Value, DateTime Timestamp)>> dataTable = new Dictionary<string, List<(int Value, DateTime Timestamp)>>();
+    //private const string functionUrl = "http://localhost:7260/api/GetData";
+    private const string functionUrl = "https://serverlessfunctionjd.azurewebsites.net/api/GetData";
 
+    // Array to store the data entries received from the Azure Function
+    private string[] entries;
+
+    // Dictionary to store the data in a structured format
+    internal Dictionary<string, List<(int Value, DateTime Timestamp)>> dataTable = new Dictionary<string, List<(int Value, DateTime Timestamp)>>();
+    [SerializeField] private Dictionary_Graph graphScript;
     void Start()
     {
-        StartCoroutine(GetDataRequest());
+        StartCoroutine(UpdateDataRoutine());
+    }
+
+    private IEnumerator UpdateDataRoutine()
+    {
+        while (true)
+        {
+            yield return new WaitForSeconds(5f); // Wait for 5 seconds before updating the data
+
+            yield return GetDataRequest(); // Send a request to the Azure Function to get the data
+
+            dataTable.Clear(); // Clear the existing data table
+
+            createList(); // Create a new data table based on the received data
+
+            // Display the data in the graph
+            graphScript.showGraph(dataTable, graphScript.xValuesVisible, graphScript.separatorCount, (DateTime _dt) => _dt.ToString("HH:mm:ss"), (int _i) => _i.ToString());
+        }
     }
 
     private IEnumerator GetDataRequest()
@@ -30,10 +50,10 @@ public class GetData : MonoBehaviour
         {
             string responseData = request.downloadHandler.text;
 
-            // Split the string into separate entries using the closing curly brace
+            // Split the response data into individual entries
             entries = responseData.Split(new string[] { "}" }, StringSplitOptions.RemoveEmptyEntries);
 
-            createList();           
+            yield break;          
         }
     }
     private void createList()
@@ -41,18 +61,17 @@ public class GetData : MonoBehaviour
 
         foreach (string entry in entries)
         {
-            // Add back the closing curly brace since it got removed during the split
             string separatedEntry = entry + "}";
 
-            // Parse the entry into a dictionary
+            // Deserialize the entry into a dictionary
             var entryData = Newtonsoft.Json.JsonConvert.DeserializeObject<Dictionary<string, object>>(separatedEntry);
 
-            // Extract the values
+            // Extract the data from the entry
             string name = entryData["Name"].ToString();
             int value = Convert.ToInt32(entryData["Value"]);
             DateTime timestamp = Convert.ToDateTime(entryData["Date"]);
 
-            // Add the values to the data table
+            // Add the data to the data table
             if (dataTable.ContainsKey(name))
             {
                 dataTable[name].Add((value, timestamp));
@@ -61,21 +80,6 @@ public class GetData : MonoBehaviour
             {
                 dataTable[name] = new List<(int Value, DateTime Timestamp)> { (value, timestamp) };
             }
-        }
-
-        printList();
-    }
-
-    private void printList()
-    {
-        foreach (var kvp in dataTable)
-        {
-            Debug.Log("Name: " + kvp.Key);
-            foreach (var entry in kvp.Value)
-            {
-                Debug.Log("Value: " + entry.Value + ", Timestamp: " + entry.Timestamp);
-            }
-            Debug.Log("/n");
         }
     }
 }

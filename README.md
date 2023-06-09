@@ -1,6 +1,6 @@
 # OPC Data Visualization
 
-This project allows you to retrieve data from an OPC server, send it to an Azure Function API, stores it in a blob storage, receives it in Unity via the same API and visualize it in a graph format using Unity.
+This project allows you to retrieve data from an OPC server, send it to an Azure Function API, store it in a blob storage, receive it in Unity via the same API and visualize it in a graph format using Unity.
 
 ## Features
 
